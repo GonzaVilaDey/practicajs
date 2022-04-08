@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 patri gato
+=======
+Hola como estas?
+>>>>>>> 0f15753c44da18eb392496d94f7a0f8de44a56fb
